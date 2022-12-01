@@ -1,5 +1,5 @@
 {
-  "name": "new_template",
+  "name": "cloud-demo",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -12,7 +12,6 @@
     "@tanstack/react-query": "^4.10.1",
     "@tanstack/react-query-devtools": "^4.0.10",
     "axios": "^0.27.2",
-    "dropbox": "^10.34.0",
     "filestack-react": "^4.0.1",
     "mobx": "^6.6.1",
     "mobx-react-lite": "^3.4.0",

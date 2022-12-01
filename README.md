@@ -1,29 +1,14 @@
-# Next JS & Typescript Setup
+# cloud-demo
 
-with the basics of starting a Next js project.
+- dropbox
+- google drive (not yer)
+- filestack
 
-- Typescript
-- Next js
-- React js
-- Styled components
-- Mobx
-- React-query
-
-### 1) Clone
-
-> git clone https://github.com/greatasher7/NextJS-Typescript-Setup.git
-
-### 2) Git initialize (You run terminal at root of this project)
-
-> rm -rf ./.git
-
-> git init
-
-### 3) Install modules
+### 1) Install modules
 
 > npm install
 
-### 4) Run dev server (port number 3000)
+### 2) Run dev server (port number 3000)
 
 > npm run dev
 
